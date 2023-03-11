@@ -1,0 +1,126 @@
+
+
+/* Set up basic styles for the entire page */
+html, body {
+    margin-top: 10px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ffffff;
+    height: 100%;
+    padding-bottom: 200px; /* adjust the value as needed */
+    background-image: url("gifs/background3.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+  
+  /* Set up the page header */
+  /* #intro {
+    padding: 80px 0;
+    text-align: center;
+    background-color: #f8f9fa;
+  }
+  
+  #intro h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  #intro h2 {
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 40px;
+  }
+  
+  #intro dl {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  #intro dt {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+  }
+  
+  #intro dd {
+    font-size: 16px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #intro ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+  }
+  
+  #intro ul li {
+    font-size: 16px;
+    margin-bottom: 5px;
+  } */
+
+  #intro
+  {
+    border-radius: 20px 20px 20px 20px;
+  }
+  
+  Set up the activity sections
+  .activity {
+    padding: 80px 0;
+    text-align: justify;
+  }
+  
+  .activity h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 40px;
+  }
+  
+  .activity dl {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .activity dt {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .activity ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .activity ul li {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .navbar
+  {
+    border-radius: 20px 20px 20px 20px;
+  }
+  
+  footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px 20px 20px 20px;
+  }
+  
